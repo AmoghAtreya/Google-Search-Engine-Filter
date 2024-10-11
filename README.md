@@ -50,7 +50,7 @@ The Filtered Search Engine aims to provide users with **relevant** and **unbiase
 
 4. **Run the Flask app:**
    ```bash
-   python app.py
+   flask run
    ```
 
 5. **Access the app** in your browser at `http://127.0.0.1:5000/`.
