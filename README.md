@@ -65,13 +65,13 @@ The Filtered Search Engine aims to provide users with **relevant** and **unbiase
 
 Here’s a preview of the app:
 
-- **Homepage:**
+- **Example 1:**
   
-  ![Homepage](images/homepage.png)
+  ![Homepage](Treadmillpage.png)
 
-- **Results Page:**
+- **Example 2:**
 
-  ![Results Page](images/results_page.png)
+  ![Results Page](programmingpage.png)
 
 ## 📄 **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
